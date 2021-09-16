@@ -7,7 +7,7 @@ from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 #Install python-Levenshtein for faster runtime
 
-#hiện tại em đưa lần lượt 1 bài từ data.json vào file sample.json rồi test
+#manually extract sample from data.json into sample.json for testing
 with open('sample.json') as f:
     sample = json.load(f)
 
@@ -177,7 +177,7 @@ def deal_with_dt_dat(sample, key_dt_dat, special_case):
     if min_price_in_trieu != 0:
       area_cal = array_of_area[price_without_unit_list.index(min_price_in_trieu)]
     else:
-      area_cal = array_of_area[price_without_unit_list.index(min_price_in_ty)]
+      area_cal = array_of_area[price_without_unit_list.index(min_price_in_ti)]
 
   if in_hecta == True:
     area_cal *= 10000
