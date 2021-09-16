@@ -1,0 +1,112 @@
+{
+    "id": 118760,
+    "content": "Nhà nằm ngay trung tâm thành phố trên con đường huyết mạch, khu vực kinh doanh sầm uất bậc nhất Sài Gòn, khu vực tập trung nhiều quán bar, nhà hàng, khách sạn, khu ăn chơi bậc nhất của Sài Gòn, khu tập trung nhiều du khách nước ngoài, giá trị khai thác cực kỳ tốt.\n\n- Diện tích sử dụng: 335m2 vuông vức không lỗi phong thủy.\n\n- Kết cấu: Nhà 5 lầu, rất đẹp.\r\n\r- Giá bán 28 tỷ có thương lượng với khách thiện chí, mua bán nhanh gọn.",
+    "realestate_type": 2,
+    "floor": 6.0,
+    "attributes": [
+      {
+        "content": "Nhà",
+        "type": "realestate_type"
+      },
+      {
+        "content": "nằm ngay trung tâm thành phố trên con đường huyết mạch , khu vực kinh doanh",
+        "type": "normal"
+      },
+      {
+        "content": "sầm uất",
+        "type": "surrounding_characteristics"
+      },
+      {
+        "content": "bậc nhất",
+        "type": "normal"
+      },
+      {
+        "content": "Sài Gòn",
+        "type": "addr_city"
+      },
+      {
+        "content": ", khu vực tập trung nhiều",
+        "type": "normal"
+      },
+      {
+        "content": "quán bar",
+        "type": "surrounding"
+      },
+      {
+        "content": ",",
+        "type": "normal"
+      },
+      {
+        "content": "nhà hàng",
+        "type": "surrounding"
+      },
+      {
+        "content": ",",
+        "type": "normal"
+      },
+      {
+        "content": "khách sạn",
+        "type": "surrounding"
+      },
+      {
+        "content": ",",
+        "type": "normal"
+      },
+      {
+        "content": "khu ăn chơi",
+        "type": "surrounding"
+      },
+      {
+        "content": "bậc nhất của",
+        "type": "normal"
+      },
+      {
+        "content": "Sài Gòn",
+        "type": "addr_city"
+      },
+      {
+        "content": ", khu tập trung nhiều du khách nước ngoài , giá trị khai thác cực kỳ tốt . \n - Diện tích sử dụng :",
+        "type": "normal"
+      },
+      {
+        "content": "335 m 2",
+        "type": "area"
+      },
+      {
+        "content": "vuông vức không lỗi phong thủy . \n - Kết cấu :",
+        "type": "normal"
+      },
+      {
+        "content": "Nhà",
+        "type": "realestate_type"
+      },
+      {
+        "content": "5 lầu",
+        "type": "interior_floor"
+      },
+      {
+        "content": ", rất đẹp . \n - Giá bán",
+        "type": "normal"
+      },
+      {
+        "content": "28 tỷ",
+        "type": "price"
+      },
+      {
+        "content": "có thương lượng với khách thiện chí ,",
+        "type": "normal"
+      },
+      {
+        "content": "mua",
+        "type": "transaction_type"
+      },
+      {
+        "content": "bán",
+        "type": "transaction_type"
+      },
+      {
+        "content": "nhanh gọn .",
+        "type": "normal"
+      }
+    ]
+  }
